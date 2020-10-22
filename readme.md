@@ -4,7 +4,7 @@
 
 git init
 
-- <creamos fichero>
+- creamos fichero
 - git add .
 - git commit -m "mensaje"
 - git remote add origin https://urlrepositorio
