@@ -12,7 +12,7 @@ git init
 
 ## A partir de la segunda vez:
 
-- <creamos fichero>
+- creamos fichero
 - git add .
 - git commit -m "mensaje"
 - git push origin master
